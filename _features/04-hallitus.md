@@ -1,18 +1,15 @@
 ---
 id: hallitus
 name: Hallitus
-heading: Hallitus 2015
+heading: Hallitus 2016
 subheading: Ja toimihenkilö
 ---
 
-Puheenjohtaja 			Akseli Karvinen  
-Rahastonhoitaja 		Ville-Valtteri Jäävalli  
-Sihteeri 				Karoliina Jäspi  
-Varapuheenjohtaja 		Saku Tiihonen  
-Hallituksen jäsen 		Noora Männikkö  
-Hallituksen jäsen		Panu Kortelainen  
-Hallituksen jäsen		Masi Kajander  
-Hallituksen jäsen		Viivi Ilvesmäki  
-Mordorin kätyri 		Juuso Piskonen  
-
-Toimihenkilö M. 		Miika Heinonen
+Puheenjohtaja 			Viivi Ilvesmäki  
+Rahastonhoitaja 		Sauli Nevalainen  
+Sihteeri 				    Noora Vainio  
+Hallituksen jäsen 	Atte Saarinen (VPJ)
+Hallituksen jäsen 	Miika Heinonen  
+Hallituksen jäsen		Veli-Matti Korpelainen  
+Hallituksen jäsen		Panu Kortelainen
+Hallituksen jäsen		Juuso Piskonen 
